@@ -57,9 +57,6 @@ This project was developed as part of the Level Supermind Hackathon submission.
    Open your browser and navigate to `http://localhost:8080`.
 
 ---
-
-
-
 ---
 
 ## Usage
@@ -70,9 +67,12 @@ This project was developed as part of the Level Supermind Hackathon submission.
    - Engagement metrics
    - Performance graphs
    - AI-driven insights
-
 ---
 
+## Backend GitHub Repository
+
+The backend code for the Social Track project can be found at the following GitHub repository:  
+[https://github.com/SagarBhoi404/social-track-backend](https://github.com/SagarBhoi404/social-track-backend)
 
 
 ## Screenshots
