@@ -74,4 +74,6 @@ This project was developed as part of the Level Supermind Hackathon submission.
 ---
 
 
+
 ## Screenshots
+![1](https://github.com/user-attachments/assets/a6fdd9e7-3790-4497-a2c6-462df57e3a6f)
