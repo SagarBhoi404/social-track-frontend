@@ -48,7 +48,7 @@ const Index = () => {
       return;
     }
 
-    fetch("http://127.0.0.1:5000/engagement")
+    fetch("https://social-track-backend.onrender.com/engagement")
       .then((response) => {
         if (!response.ok) {
           throw new Error(`HTTP error! Status: ${response.status}`);
@@ -72,7 +72,7 @@ const Index = () => {
 
     try {
       // Send POST request with the profileUrl
-      const response = await fetch("http://127.0.0.1:5000/analyze", {
+      const response = await fetch("https://social-track-backend.onrender.com/analyze", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
