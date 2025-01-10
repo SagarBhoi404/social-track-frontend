@@ -28,7 +28,7 @@ export const PerformanceGraph = () => {
 
   // Fetch data from the API
   useEffect(() => {
-    fetch("http://127.0.0.1:5000/performance")
+    fetch("https://social-track-backend.onrender.com/performance")
       .then((response) => {
         if (!response.ok) {
           throw new Error(`HTTP error! Status: ${response.status}`);
